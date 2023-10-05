@@ -1,4 +1,3 @@
-Developer, Artist, Student.
 <h1 align= "center"style="color: #3081D9; text-aling: center; font-size: 35px;">Faaler</h1>
 
 
